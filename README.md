@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./8f63ebd00c77eec576ef4ffdc02caabf10fa2f25_raw.gif" width="300"/>
+</p>
+
 # Hi, I'm eneqwq 👋
 
 You'll find me under the same name everywhere online. Wondering where it comes from?
